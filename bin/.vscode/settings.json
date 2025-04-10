@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/71a85344-67e2-425f-94a4-63cab9c53c22/resourceGroups/Sakal-First-App/providers/Microsoft.Web/sites/sakal-first-app",
+    "appService.deploySubpath": "publish"
+}

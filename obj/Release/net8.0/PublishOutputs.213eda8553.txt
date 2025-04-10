@@ -1,0 +1,13 @@
+C:\My-Projects\Azure\first-azure-app\bin\publish\first-azure-app.exe
+C:\My-Projects\Azure\first-azure-app\bin\publish\appsettings.Development.json
+C:\My-Projects\Azure\first-azure-app\bin\publish\appsettings.json
+C:\My-Projects\Azure\first-azure-app\bin\publish\first-azure-app.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\first-azure-app.deps.json
+C:\My-Projects\Azure\first-azure-app\bin\publish\first-azure-app.runtimeconfig.json
+C:\My-Projects\Azure\first-azure-app\bin\publish\first-azure-app.pdb
+C:\My-Projects\Azure\first-azure-app\bin\publish\System.Data.SqlClient.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\runtimes\win-arm64\native\sni.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\runtimes\win-x64\native\sni.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\runtimes\win-x86\native\sni.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\My-Projects\Azure\first-azure-app\bin\publish\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

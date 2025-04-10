@@ -1,0 +1,24 @@
+﻿@using first_azure_app.Controllers
+@model IEnumerable<Course>
+
+<h2>Course List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Course ID</th>
+            <th>Course Name</th>
+            <th>Rating</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CourseID</td>
+                <td>@item.CourseName</td>
+                <td>@item.Rating</td>
+            </tr>
+        }
+    </tbody>
+</table>

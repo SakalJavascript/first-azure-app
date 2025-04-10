@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-azure-app", "first-azure-app.csproj", "{BCE81A01-A694-6793-2F61-8C7F3CB1E4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE81A01-A694-6793-2F61-8C7F3CB1E4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE81A01-A694-6793-2F61-8C7F3CB1E4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE81A01-A694-6793-2F61-8C7F3CB1E4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE81A01-A694-6793-2F61-8C7F3CB1E4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2F20BD-829F-49AC-BB84-594EB5CC46D8}
+	EndGlobalSection
+EndGlobal
