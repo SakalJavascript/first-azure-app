@@ -54,7 +54,8 @@ public class HomeController : Controller
             new Course { CourseID = 2, CourseName = "AZ-204 Azure Developer", Rating = 4.6M },
             new Course { CourseID = 3, CourseName = "AZ-104 Administrator", Rating = 4.7M },
             new Course { CourseID = 4, CourseName = "AZ-7777 Pro Max Azure", Rating = 5.0M },
-            new Course { CourseID = 4, CourseName = "AZPS1 Powershell Course", Rating = 8.0M }
+            new Course { CourseID = 5, CourseName = "AZPS1 Powershell Course", Rating = 8.0M },
+            new Course { CourseID = 6, CourseName = "Moc Exam AZ-204", Rating = 9.0M }
         };
 
         return View(courses);
